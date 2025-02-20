@@ -1,0 +1,6 @@
+.ol-legend > canvas {
+float: left;
+}
+.ol-legend > div.ol-legend {
+position: relative;
+}

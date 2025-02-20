@@ -1,12 +1,12 @@
 ---
 layout: about
-title: à propos
+title: À propos
 permalink: /
 subtitle: Ingénieur SIG et Data, Cartographe chez <a href='https://blayfoldex.com'>Blay-Foldex</a>
 
 profile:
   align: right
-  image: moung_photo_color.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fa-solid fa-phone"></i> +33 6 52 48 08 90</p>
@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ingénieur SIG expérimenté, structuré et syntétique. Forte appétence pour le traitement automatisé de la donnée.
+Ingénieur SIG expérimenté avec une forte appétence pour le traitement automatisé de la donnée. Compétences solides en SQL, Python, RegEx.
 
-Autonome et motivé par la résolution de problèmes complexes, je conçois et mets en œuvre des solutions adaptées à des enjeux variés.
+Autonome et analytique, je conçois et mets en œuvre des solutions adaptées à des contextes variés.
