@@ -49,6 +49,6 @@ Nous pouvons observer le résultat de l'estimation de la pente sur la carte ci-d
       <span id="opacity-output"></span>
     </div>
 </div>
+<div class="caption"> </div>
 
-.
 .

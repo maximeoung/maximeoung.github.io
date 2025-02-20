@@ -65,7 +65,9 @@ Nous pouvons observer le résultat sur la carte ci-dessous :
       </div>
 </div>
 
-
+<div class="caption"> </div>
 Si cet exemple produit déjà un résultat visuellement intéressant, des pistes pour affiner l'indicateur sont à envisager, notamment en élaborant davantage le système de pondération, en croisant avec les données de densité de trafic par exemple.
+<div class="caption"> </div>
+
 
 .
