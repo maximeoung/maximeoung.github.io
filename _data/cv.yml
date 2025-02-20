@@ -22,9 +22,9 @@
   type: map
   contents:
     - name: SIG et Data
-      value: PostgreSQL / PostGIS, QGIS, ArcGIS, librairies OGR / GDAL,  C&D Online, Articque Platform, Excel, RegEx
+      value: PostgreSQL / PostGIS, QGIS, ArcGIS, librairies OGR / GDAL,  C&D Online, Articque Platform, Excel, RegEx, Geoserver
     - name: Web
-      value: OpenLayers, Leaflet, Geoserver, WordPress, SPIP
+      value: OpenLayers, Leaflet, WordPress, SPIP
     - name: Langages de programmation et outils
       value: Python, SQL, R, Javascript, VBA, PL/SQL, RegEx
     - name: PAO et illustration
@@ -48,10 +48,11 @@
       year: 2015 - auj.'hui
       location: Fondettes (37)
       description:
-        - Gestion et automatisation de Bases de données géographiques (PostgreSQL /PostGIS, batches)
-        - Automatisation SIG par scripting Python QGIS, PL/SQL
+        - Gestion de Bases de données géographiques (PostgreSQL/PostGIS)
+        - Automatisation SIG par scripting Python, PL/SQL, GDAL/OGR, batches
         - Data Prep (Excel, VBA, RegEx, Python)
-        - Conception d’indicateurs (densité et congestion de trafic routier, pentes de toitures)
+        - Veille Data et référent BDD TomTom
+        - Conception d’indicateurs (congestion de trafic routier, pentes de toitures)
         - Automatisation PAO (Javascript, InData)
         - Production cartographique (QGIS, suite Lorienne, Illustrator)
 
@@ -62,13 +63,12 @@
       description:
         - Gestion de projets
         - Avant-vente, production cartographique B2B et B2C
-        - Automatisation SIG (scripting Python ArcGIS, model builder, batches OGR / GDAL)
+        - Automatisation SIG (scripting Python ArcGIS, model builder, batches OGR/GDAL)
         - Data Prep (Excel, VBA)
-        - Veille Data et référent BDD TomTom
 
     - title: Chargé d'Études d’Urbanisme
       institution: Hortésie
-      year: 1917-1933
+      year: 2007-2008
       description:
         - Elaboration de Diagnostics territoriaux et PADD (Plans d’Aménagement et de Développement Durable)
         - Rédaction de PLU et autres documents d’urbanisme réglementaire
@@ -93,6 +93,13 @@
       year: 2005 - 2006
       description:
         - Modélisation et calcul du bilan énergétique du secteur résidentiel au Japon (modèle ETHEL).
+
+    - title: Bac S
+      year: 2000
+      description:
+        - option Technologie Industrielle
+        - spécialité Maths
+        - mention bien
 
 - title: Formation continue
   type: time_table
