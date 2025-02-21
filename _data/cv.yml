@@ -1,21 +1,21 @@
 - title: Informations Générales
   type: map
   contents:
-    - name: nom
+    - name: Nom
       value: Maxime Oung
-    - name: âge
+    - name: Âge
       value: 41 ans
-    - name: e-mail
+    - name: E-mail
       value: maxime.oung@gmail.com
-    - name: tél
+    - name: Tél
       value: +33 6 52 48 0 90
-    - name: en bref
+    - name: En bref
       value: Ingénieur SIG et Data expérimenté avec une forte appétence pour le traitement automatisé de la donnée. Compétences solides en SQL, Python, RegEx. Autonome et analytique, je conçois et mets en œuvre des solutions adaptées à des contextes variés.
-    - name: mobilité
+    - name: Mobilité
       value: Tours (37) / Télétravail. Permis B
-    - name: wwww
+    - name: Www
       value: <a href="https://maximeoung.github.io">https://maximeoung.github.io</a>
-    - name: linkedIn
+    - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/maxime-oung">https://www.linkedin.com/in/maxime-oung</a>
 
 - title: Compétences
