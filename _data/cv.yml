@@ -22,11 +22,11 @@
   type: map
   contents:
     - name: SIG et Data
-      value: PostgreSQL / PostGIS, QGIS, ArcGIS, librairies OGR / GDAL,  C&D Online, Articque Platform, Excel, RegEx, Geoserver
+      value: PostgreSQL / PostGIS, QGIS, ArcGIS, librairies OGR / GDAL,  C&D Online, Articque Platform, Excel, RegEx, Geoserver, DBT
     - name: Web
       value: OpenLayers, Leaflet, WordPress, SPIP
     - name: Langages de programmation et outils
-      value: Python, SQL, R, Javascript, VBA, PL/SQL, RegEx
+      value: Python, SQL, R, C++, Javascript, VBA, PL/SQL, RegEx
     - name: PAO et illustration
       value: InDesign / InData, Illustrator / Mapublisher, Photoshop
     - name: Langues

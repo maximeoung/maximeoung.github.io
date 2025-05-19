@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ingénieur SIG et Data, avec une forte appétence pour le traitement automatisé de la donnée. Compétences solides en SQL, Python, RegEx et R.
+Ingénieur Data et SIG expérimenté avec une forte appétence pour le développement d’outils de traitement automatisé de données SIG.
 
-Autonome et analytique, je conçois et mets en œuvre des solutions adaptées à des contextes variés.
+ Autonome et analytique avec de solides compétences en SQL et Python, et une bonne maîtrise des librairies OGR/GDAL, je conçois et mets en oeuvre des solutions adaptées à des contextes variés.
